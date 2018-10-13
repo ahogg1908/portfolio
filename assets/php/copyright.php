@@ -1,0 +1,1 @@
+<p class="copyright font-alt m-b-0">© 2010 - <?php echo date("Y"); ?> AG Design, All Rights Reserved.</p>
